@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfirebase-3e93c": {
+      "hosting": {
+        "angularFirebase": [
+          "angularfirebase-3e93c"
+        ]
+      }
+    }
+  }
+}
